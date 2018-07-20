@@ -1,0 +1,14 @@
+{
+  "name": "countup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "countUp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^1.9.7"
+  }
+}
